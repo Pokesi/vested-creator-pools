@@ -65,4 +65,6 @@ You can see it [here](https://vested-creator-pools.vercel.app/)
 
 It may need to be edited for use in non-windows systems.
 
+⚠ I reccomend using `solang` for each contract individually, as a new bundle.so file must be generated for each contract ⚠
+
 #### More on the different types of pools can be found in the whitepaper.
