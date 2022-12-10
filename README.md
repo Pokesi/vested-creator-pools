@@ -54,6 +54,8 @@ npx vite --port 3000
 
 The frontend should now be live at `https://localhost:3000/`
 
+You can see it [here](https://vested-creator-pools.vercel.app/)
+
 ## Using the `compile_all` utility
 `compile_all` is a utility to compile all the contracts in `/contracts`, for ease of use. It takes a single argument, the target chain, one of the following:
 
