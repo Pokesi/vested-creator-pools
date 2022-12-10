@@ -1,7 +1,7 @@
 # The Future of Royalties, the Creator Pool.
 ### A concept written by z.ftm for the Magic Eden Creator Monetization Hackathon
 
-Code written in Solidity can be used on Solana using Solang, through the `solang.exe` file provided ([hyperledger/solang](https://github.com/hyperledger/solang)). Linux/MacOS binaries can be found [here](https://solang.readthedocs.io/en/latest/installing.html).
+Code written in Solidity can be used on Solana using Solang, through the `solang.exe` file provided ([hyperledger/solang](https://github.com/hyperledger/solang)). Linux/MacOS binaries can be found [here](https://solang.readthedocs.io/en/latest/installing.html). Please note none of the code has been audited!
 
 ## An introduction
 This is ripped from the whitepaper.<br>
