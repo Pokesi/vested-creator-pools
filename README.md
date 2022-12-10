@@ -8,6 +8,14 @@ This is ripped from the whitepaper.<br>
 
 A Creator Pool is a royalties model which works more as a pay check, rather than a constant stream of income. The basic idea behind this model is that royalties do not go directly to the creator, instead, royalties are sent to a pool. This pool gets emptied out in intervals, and every NFT collection’s creator is paid out in proportion to what they contributed.  
 
+## Submission
+#### A description of what your project does and why you decided to build it
+The VCP model is a revamped royalty payout method that allows both the NFT marketplace and the NFT creators to capitulate on the billions flowing through royalties every year. I decided to build it for this exact reason.
+
+#### Demo video or presentation slides. Your video should be under 1 minute and include a demo of your working project. (Videos must be made publicly visible).
+Presentation can be found at `Presentation.{pdf|ppsx}`
+Whitepaper can be found at `The Future Of Royalties.pdf`
+
 ## bVCP
 A bVCP is the pool referred to above. A creator's payout is defined by the equation:
 ```
